@@ -1,0 +1,8 @@
+[package]
+org = "nicholassmith"
+name = "nytimes_books_client"
+version = "0.1.0"
+distribution = "2201.9.1"
+
+[build-options]
+observabilityIncluded = true
